@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manpreetjr
-- 👀 I’m interested in Full Stack web development..
-- 🌱 I’m currently learning Full Stack web development..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web development..
+- 💞️ I’m looking to collaborate on Development projects..
 - 📫 How to reach me manpreetsohal549@gmail.com
 
 <!---
